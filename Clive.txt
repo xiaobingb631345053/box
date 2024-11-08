@@ -1,6 +1,6 @@
 //仅供学习测试
 
-📺⇩241108c⇩,#genre#
+📺⇩C241108C⇩,#genre#
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 西安钟楼,http://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 重庆巫山长江大桥,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
