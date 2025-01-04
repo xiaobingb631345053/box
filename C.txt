@@ -6,7 +6,7 @@
 {
 // ⇩⇩ 壁纸 ⇩⇩         
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",  #(喜欢这纯色壁纸)
-"warningText":"🔥欢迎红儿妹观影🔥接口长期维护,智能AI已过滤广告",
+"warningText":"🔥欢迎红儿妹观影,接口长期维护,智能AI已过滤广告",
 
 // ⇩⇩ jar包 ⇩⇩
 "spider":"https://xn--jyyj-rp5imh.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
@@ -29,7 +29,8 @@
   ],
 
 "sites": [
-{"key":"豆瓣2","name":"241230更新C接口,欧歌┃豆瓣","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"250101更新C接口,欧歌┃豆瓣","type":3,"api":"csp_Douban","searchable":0},
+{"key":"Dm84","name":"🤣巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 
 //⇩⇩1.欧歌的jar内置爬虫规则区⇩⇩(👉🇨🇳📺💡🛶🎄🎃❤💘💖🔥🎧🔞)
 
@@ -46,6 +47,14 @@
 {"key":"哔嘀弹幕","name":"💘哔嘀｜弹幕","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.xlys01.com","danmu":true}},
 
 //⇩⇩2.网络找的大杂烩(api和ext是网络源)⇩⇩(🔥)
+
+ {"key": "drpyS_瓜子H5","name": "🔥瓜子H5(DS).新道长","type": 4,
+      "api": "https://drpys.6516789.xyz/api/瓜子H5","searchable": 2,"filterable": 1,"quickSearch": 1,
+      "ext": ""},
+
+   {"key": "JINPAI","name": "🔥金牌┃影视.玉儿","type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "ext": "https://yyrj.fun/js/jp.js"},
 
  {"key": "腾讯视频","name": "🔥腾讯视频.落英缤纷","type": 3,
       "api": "https://gitee.com/lanny520/tv/raw/master/JS/drpy2.min.js",
@@ -278,13 +287,16 @@
 
 // ⇩⇩ 解析接口 ⇩⇩(type0是嗅探自带播放器,type1是解析返回直链)
 "parses":[
- {"name": "聚合","type": 3,"url": "Demo"},
+
+{"name": "Json聚合","type": 3,"url": "Demo"},
+{"name": "Web聚合","type": 3,"url": "Web"},
 
  {"name": "虾米(可用)","type": 0,"url": "https://jx.xmflv.com/?url="},
  {"name": "小蜜蜂(可用)","type": 0,"url": "https://jx.xmflv.cc/?url="},
  {"name": "夜魔(可用)","type": 0,"url": "https://www.yemu.xyz/?url="},
  {"name": "剖云(可用)","type": 0,"url": "https://www.pouyun.com/?url="},
  {"name": "8090g(可用)","type": 0,"url": "https://www.8090g.cn/jiexi/?url="},
+{"name": "冰豆(可用)","type": 0,"url": "https://bd.jx.cn/?url="},
 {"name":"线路5","type":0,"url":"https://cdn.zyc888.top/?url="},
 {"name":"线路6","type":0,"url":"https://jx.yangtu.top?url="},
 {"name":"线路7","type":0,"url":"https://player.mrgaocloud.com/player/?url="}
@@ -301,4 +313,6 @@
 ],
 
 // ⇩⇩广告域名过滤 ⇩⇩
-  "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]} 
+  "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+//本接口不分享,仅自己测试和学习用。
+} 
