@@ -1,6 +1,6 @@
 //仅供学习测试
 
-📺⇩C241229⇩,#genre#
+📺⇩C250101⇩,#genre#
 全国风景总览,https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 西安钟楼,http://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
@@ -184,37 +184,25 @@ douyu44,http://epg.112114.xyz/douyu/323876
 高山下的花环,https://vd2.bdstatic.com/mda-ngq0sksae82vsz1s/sc/cae_h264/1658728345217881856/mda-ngq0sksae82vsz1s.mp4
 
 演唱会,#genre#
-吴涤清-阿里巴巴(演唱会),http://em.21dtv.com/songs/60066768.mkv
+吴涤清-康定情歌(演唱会),http://em.21dtv.com/songs/60067160.mkv
 吴涤清-草原之夜(演唱会),http://em.21dtv.com/songs/60066903.mkv
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
 许巍-漫步(演唱会),http://em.21dtv.com/songs/60028561.mkv
 许巍-漫步,http://em.21dtv.com/songs/60028562.mkv
-孙维良+宁可-康定情歌(演唱会),http://em.21dtv.com/songs/60067159.mkv
 张蔷-爱你在心口难开(演唱会),http://em.21dtv.com/songs/60008040.mkv
-吴涤清-康定情歌(演唱会),http://em.21dtv.com/songs/60067160.mkv
-宋祖英+蒲巴甲+苏有朋-康定情歌,http://em.21dtv.com/songs/60076245.mkv
-玖月奇迹-康定情歌(演唱会),http://em.21dtv.com/songs/60083215.mkv
-宁可+孙维良-康定情歌(演唱会),http://em.21dtv.com/songs/60083216.mkv
 毕福剑+苏丹-走天涯(演唱会),http://em.21dtv.com/songs/60079748.mkv
-毕福剑+苏丹-漂亮的姑娘就要嫁人了(演唱会),http://em.21dtv.com/songs/60077080.mkv
 陈百强-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023922.mkv
-陈百强-南北一家亲(演唱会),http://em.21dtv.com/songs/60031082.mkv
-蔡琴-今宵多珍重(HD演唱会),http://em.21dtv.com/songs/60023921.mkv
 崔萍-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023923.mkv
 雷安娜-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023924.mkv
 梅艳芳-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023925.mkv
-谢雷+杨燕-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023926.mkv
-叶丽仪-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023927.mkv
 陈百强-粉红色的一生(演唱会),http://em.21dtv.com/songs/60017169.mkv
 梅艳芳-粉红色的一生(演唱会),http://em.21dtv.com/songs/60017170.mkv
 林一峰-偏偏喜欢你(演唱会),http://em.21dtv.com/songs/60033418.mkv
 谢雷-偏偏喜欢你(演唱会),http://em.21dtv.com/songs/60033419.mkv
 陈百强-偏偏喜欢你,http://em.21dtv.com/songs/60033420.mkv
-柳影虹-偏偏喜欢你(演唱会),http://em.21dtv.com/songs/60062698.mkv
 谭咏麟+杜丽莎-今宵多珍重(演唱会),http://em.21dtv.com/songs/60070818.mkv
 石修-今宵多珍重(演唱会),http://em.21dtv.com/songs/60076129.mkv
 汪明荃-今宵多珍重(演唱会),http://em.21dtv.com/songs/60076130.mkv
-SOLER-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041752.mkv
 任贤齐+周华健-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041753.mkv
 许志安-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041754.mkv
 张惠妹-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041755.mkv
@@ -224,42 +212,30 @@ SOLER-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041752.mkv
 汪明荃-万水千山总是情(演唱会),http://em.21dtv.com/songs/60043309.mkv
 张帝+朱明瑛-万水千山总是情(演唱会),http://em.21dtv.com/songs/60043310.mkv
 张帝-为什么不爱我(演唱会),http://em.21dtv.com/songs/60078099.mkv
-张帝-毛毛歌(演唱会),http://em.21dtv.com/songs/60028653.mkv
 TWINS-恋爱大过天(演唱会),http://em.21dtv.com/songs/60026998.mkv
 李克勤+梁荣忠-恋爱大过天(演唱会),http://em.21dtv.com/songs/60026999.mkv
-李宇春-零点五英里(演唱会),http://em.21dtv.com/songs/60027451.mkv
 蔡琴-绿岛小夜曲(HD演唱会),http://em.21dtv.com/songs/60028153.mkv
-佚名-绿岛小夜曲(慢四),http://em.21dtv.com/songs/60028154.mkv
 刘若英-绿岛小夜曲(演唱会),http://em.21dtv.com/songs/60028155.mkv
 甄妮-绿岛小夜曲(演唱会),http://em.21dtv.com/songs/60028156.mkv
 黄品源+任贤齐-浪花一朵朵(演唱会),http://em.21dtv.com/songs/60026219.mkv
 莫文蔚-溜溜的情歌(演唱会),http://em.21dtv.com/songs/60076463.mkv
-梅花三姐妹-流浪走天涯(演唱会),http://em.21dtv.com/songs/60027690.mkv
 F.I.R-流浪者之歌(演唱会),http://em.21dtv.com/songs/60027684.mkv
 陈慧娴-黎明不要来(演唱会),http://em.21dtv.com/songs/60026831.mkv
-陈洁灵-黎明不要来(演唱会),http://em.21dtv.com/songs/60026832.mkv
 徐小凤-黎明不要来(演唱会),http://em.21dtv.com/songs/60026833.mkv
 乌兰图雅-蓝色的故乡(演唱会),http://em.21dtv.com/songs/60068412.mkv
-叶振棠+关菊英-两忘烟水里(演唱会),http://em.21dtv.com/songs/60027303.mkv刘若英+玛莎-旅行的意义(演唱会),http://em.21dtv.com/songs/60076513.mkv
 徐佳莹-旅行的意义(演唱会),http://em.21dtv.com/songs/60076514.mkv
-旭日阳刚-老乡见老乡,http://em.21dtv.com/songs/60076356.mkv
 朱咪咪+叶振棠-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60027329.mkv
 朱咪咪-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60027330.mkv
-尹光+吕有慧-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60061366.mkv
 林子祥+谢安琪-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60076405.mkv
 罗敏庄+黄日华-两忘烟水里(演唱会),http://em.21dtv.com/songs/60076435.mkv
 张学友+许慧欣-流星下的愿(演唱会),http://em.21dtv.com/songs/60027735.mkv
-高向鹏-老兄行酒楼(演唱会),http://em.21dtv.com/songs/60026442.mkv
 谭咏麟+李克勤-理想与和平(演唱会),http://em.21dtv.com/songs/60026892.mkv
 谭咏麟-理想与和平(演唱会),http://em.21dtv.com/songs/60026893.mkv
 徐小凤-流下眼泪前(演唱会),http://em.21dtv.com/songs/60027719.mkv
 许冠文-流下眼泪前(演唱会),http://em.21dtv.com/songs/60027720.mkv
 莫旭秋-良夜不能留(演唱会),http://em.21dtv.com/songs/60027173.mkv
-杨坤-里约热内卢(演唱会),http://em.21dtv.com/songs/60026879.mkv
-杨坤+人声兄弟-里约热内卢,http://em.21dtv.com/songs/60113670.mkv
 关淑怡-恋一世的爱(演唱会),http://em.21dtv.com/songs/60027152.mkv
 梅艳芳-留住你今晚(演唱会),http://em.21dtv.com/songs/60027592.mkv
-张伟文-漫步人生路(演唱会),http://em.21dtv.com/songs/60028563.mkv
 邓丽君-漫步人生路,http://em.21dtv.com/songs/60028564.mkv
 黄日华+戚美珍-漫步人生路,http://em.21dtv.com/songs/60068459.mkv
 刘德华-漫步人生路,http://em.21dtv.com/songs/60070906.mkv
@@ -267,14 +243,9 @@ F.I.R-流浪者之歌(演唱会),http://em.21dtv.com/songs/60027684.mkv
 男人唐潮-玫瑰花儿开(演唱会),http://em.21dtv.com/songs/60072188.mkv
 梁汉文-曼谷玛利亚(演唱会),http://em.21dtv.com/songs/60028550.mkv
 方大同-每个人都会(演唱会),http://em.21dtv.com/songs/60029038.mkv
-冯玉玺-每个人都会(演唱会),http://em.21dtv.com/songs/60062354.mkv
-冯允谦-每个人都会(演唱会),http://em.21dtv.com/songs/60083370.mkv
-陈奕迅-马利奥派对(演唱会),http://em.21dtv.com/songs/60028368.mkv
-陈奕迅-玛利奥派对(HD演唱会),http://em.21dtv.com/songs/60028396.mkv
 汪明荃-美丽的时光(演唱会),http://em.21dtv.com/songs/60029224.mkv
 成龙+金喜善-美丽的神话(hd剧情),http://em.21dtv.com/songs/60029219.mkv
 孙楠+韩红-美丽的神话(演唱会),http://em.21dtv.com/songs/60029220.mkv
-白冰+胡歌-美丽的神话,http://em.21dtv.com/songs/60029221.mkv
 成龙+金喜善-美丽的神话,http://em.21dtv.com/songs/60029222.mkv
 孙楠+韩红-美丽的神话,http://em.21dtv.com/songs/60029223.mkv
 罗中旭+纪敏佳-美丽的神话,http://em.21dtv.com/songs/60083378.mkv
@@ -282,42 +253,26 @@ F.I.R-流浪者之歌(演唱会),http://em.21dtv.com/songs/60027684.mkv
 孙楠+朱婷婷+王逸洁-美丽的神话(HD),http://em.21dtv.com/songs/10012774.mkv
 霍尊-美丽的神话,http://em.21dtv.com/songs/60111516.mkv
 白冰+胡歌-美丽的神话,http://em.21dtv.com/songs/60113900.mkv
-梦苇+郑世勋-美丽的神话,http://em.21dtv.com/songs/60125830.mkv
 成龙+MIC男团-美丽的神话,http://em.21dtv.com/songs/60131454.mkv
 战斧乐队-美丽的世界,http://em.21dtv.com/songs/60130358.mkv
 杨坤-美丽的一天(演唱会),http://em.21dtv.com/songs/60029246.mkv
 刘德华-美丽的一天,http://em.21dtv.com/songs/60029247.mkv
-少女部落格-美丽的一天(演唱会),http://em.21dtv.com/songs/60064526.mkv
 伍佰-美丽新世界(演唱会),http://em.21dtv.com/songs/60029283.mkv
-AT17+林一峰-朦胧夜雨里(演唱会),http://em.21dtv.com/songs/60029444.mkv
 梅艳芳-朦胧夜雨里(演唱会),http://em.21dtv.com/songs/60029445.mkv
 吕珊-默默祝福你(演唱会),http://em.21dtv.com/songs/60062732.mkv
 方伊琪-默默祝福你(演唱会),http://em.21dtv.com/songs/60076754.mkv
 钟镇涛-没那么简单(演唱会),http://em.21dtv.com/songs/60028729.mkv
 黄小琥-没那么简单,http://em.21dtv.com/songs/60028730.mkv
-袁媛-没那么简单(演唱会),http://em.21dtv.com/songs/60063323.mkv
 金志文-没那么简单,http://em.21dtv.com/songs/60070909.mkv
-郭富城-木偶袭地球(演唱会),http://em.21dtv.com/songs/60030576.mkv
-颜福伟-明日话今天(演唱会),http://em.21dtv.com/songs/60030133.mkv
-张德兰-明日话今天(演唱会),http://em.21dtv.com/songs/60030134.mkv
 甄妮-明日话今天(演唱会),http://em.21dtv.com/songs/60030135.mkv
 徐小凤-每日怀念你(演唱会),http://em.21dtv.com/songs/60029044.mkv
 谭咏麟+李克勤-梦仍是一样(演唱会),http://em.21dtv.com/songs/60029634.mkv
 达明一派-每日一禁果(演唱会),http://em.21dtv.com/songs/60029045.mkv
 谢霆锋-每日一禁果(演唱会),http://em.21dtv.com/songs/60029046.mkv
-陈慧娴-明日有明天(演唱会),http://em.21dtv.com/songs/60030151.mkv
-王力宏-梦想被冷冻(演唱会),http://em.21dtv.com/songs/60029668.mkv
-杨小萍-梦醒不了情(演唱会),http://em.21dtv.com/songs/60029704.mkv
-ADELE-make you feel my love(演唱会),http://em.21dtv.com/songs/60067940.mkv
-ADELE-make you feel my love,http://em.21dtv.com/songs/60084745.mkv
-毛阿敏-没有根的花,http://em.21dtv.com/songs/60028784.mkv
-罗桦-每一个段落(演唱会),http://em.21dtv.com/songs/60064519.mkv
 陈奕迅-每一个明天(演唱会),http://em.21dtv.com/songs/60029081.mkv
 黄凯芹-每一个晚上(演唱会),http://em.21dtv.com/songs/60029087.mkv
 林子祥-每一个晚上(演唱会),http://em.21dtv.com/songs/60029088.mkv
 刘德华+林子祥-每一个晚上(演唱会),http://em.21dtv.com/songs/60029089.mkv
-谭锡禧-每一个晚上(演唱会),http://em.21dtv.com/songs/60083372.mkv
-甄妮+MELODY-梦中的妈妈(演唱会),http://em.21dtv.com/songs/60029774.mkv
 关淑怡-难得有情人(演唱会),http://em.21dtv.com/songs/60031205.mkv
 朱咪咪-难得有情人(演唱会),http://em.21dtv.com/songs/60031206.mkv
 草蜢-难得有情人(演唱会),http://em.21dtv.com/songs/60076846.mkv
@@ -333,12 +288,9 @@ ADELE-make you feel my love,http://em.21dtv.com/songs/60084745.mkv
 梅艳芳-你留我在此,http://em.21dtv.com/songs/60031903.mkv
 张华-牛郎想织女(演唱会),http://em.21dtv.com/songs/60032726.mkv
 古巨基+侧田-年年有今日(演唱会),http://em.21dtv.com/songs/60032631.mkv
-古巨基-年年有今日(演唱会),http://em.21dtv.com/songs/60032632.mkv
-麦穗-年年有今日(演唱会),http://em.21dtv.com/songs/60061473.mkv
 叶倩文+陈奕迅-女人的眼泪(演唱会),http://em.21dtv.com/songs/60032929.mkv
 叶倩文-女人的眼泪(演唱会),http://em.21dtv.com/songs/60032930.mkv
 张柏芝+高雪岚-男人这东西(演唱会),http://em.21dtv.com/songs/60031033.mkv
-干露露-男人这东西,http://em.21dtv.com/songs/60079896.mkv
 迪克牛仔-男人真命苦(演唱会),http://em.21dtv.com/songs/60031035.mkv
 张学友-你是爱我的(演唱会),http://em.21dtv.com/songs/60031991.mkv
 毛宁-你是我的眼(演唱会),http://em.21dtv.com/songs/60062759.mkv
@@ -346,7 +298,6 @@ ADELE-make you feel my love,http://em.21dtv.com/songs/60084745.mkv
 伍佰-挪威的森林(演唱会),http://em.21dtv.com/songs/60032810.mkv
 陈淑桦+李宗盛-你走你的路,http://em.21dtv.com/songs/60032576.mkv
 高胜美-你走你的路,http://em.21dtv.com/songs/60032577.mkv
-佚名-你走你的路,http://em.21dtv.com/songs/60032578.mkv
 汪峰-你走你的路(演唱会),http://em.21dtv.com/songs/60128161.mkv
 李玟-你在我心上(演唱会),http://em.21dtv.com/songs/60032475.mkv
 黄晓明-你在我心上,http://em.21dtv.com/songs/60032476.mkv
@@ -355,26 +306,14 @@ ADELE-make you feel my love,http://em.21dtv.com/songs/60084745.mkv
 张智霖+许秋怡-片片枫叶情(演唱会),http://em.21dtv.com/songs/60033436.mkv
 张靓颖+权振东-亲爱的小孩,http://em.21dtv.com/songs/60069469.mkv
 刘德华-亲爱的小孩,http://em.21dtv.com/songs/60069725.mkv
-刘心-亲爱的小孩(演唱会),http://em.21dtv.com/songs/60071054.mkv
-权振东-亲爱的小孩,http://em.21dtv.com/songs/60071055.mkv
 萧敬腾-亲爱的小孩,http://em.21dtv.com/songs/60072303.mkv
 辛晓琪-亲爱的小孩,http://em.21dtv.com/songs/60077183.mkv
 邰正宵-亲爱的小孩,http://em.21dtv.com/songs/60097616.mkv
-俞灏明-亲爱的小孩,http://em.21dtv.com/songs/60098115.mkv
-李炜+江映蓉-亲爱的小孩,http://em.21dtv.com/songs/60098474.mkv
-赵薇+黄渤+佟大为+郝蕾+张译-亲爱的小孩,http://em.21dtv.com/songs/60104458.mkv
 华晨宇-亲爱的小孩,http://em.21dtv.com/songs/60105668.mkv
 张赫宣-亲爱的小孩,http://em.21dtv.com/songs/60106865.mkv
 张信哲-亲爱的小孩,http://em.21dtv.com/songs/60119496.mkv
 田震-千百回期待(演唱会),http://em.21dtv.com/songs/60034057.mkv
-甲子蕙+林美-情比姐妹深,http://em.21dtv.com/songs/60034926.mkv
 黑龙-请别离开我,http://em.21dtv.com/songs/60035501.mkv
-容祖儿-去火星恋爱(演唱会),http://em.21dtv.com/songs/60035841.mkv
-陈一郎-情海一条龙(无原唱),http://em.21dtv.com/songs/60095966.mkv
-甄妮-七级半地震(演唱会),http://em.21dtv.com/songs/60033743.mkv
-王铮亮-千金不换爱,http://em.21dtv.com/songs/60111292.mkv
-黄宗泽-全角度爱你(演唱会),http://em.21dtv.com/songs/60035881.mkv
-李治廷-奇迹等不到,http://em.21dtv.com/songs/60066224.mkv
 泽仁娜措-琼杰的朋友(藏),http://em.21dtv.com/songs/60069740.mkv
 黄贯中-请将手放开(演唱会),http://em.21dtv.com/songs/60035527.mkv
 谢安琪-请将手放开(演唱会),http://em.21dtv.com/songs/60035528.mkv
@@ -383,7 +322,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 谭咏麟+李克勤-球迷奇遇记(演唱会),http://em.21dtv.com/songs/60035811.mkv
 李玉刚-清明上河图,http://em.21dtv.com/songs/60034888.mkv
 孙维良-清明上河图(演唱会),http://em.21dtv.com/songs/60067333.mkv
-孙维良-清明上河图(现场),http://em.21dtv.com/songs/60096245.mkv
 慢摇舞曲-全民社会摇 (DJ),http://em.21dtv.com/songs/30000601.mkv
 龙奔-全民社会摇,http://em.21dtv.com/songs/60129866.mkv
 群星-青苹果乐园(演唱会),http://em.21dtv.com/songs/60034768.mkv
@@ -397,58 +335,42 @@ MATZKA-青苹果乐园(演唱会),http://em.21dtv.com/songs/60064733.mkv
 范晓萱-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035194.mkv
 林忆莲-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035195.mkv
 罗大佑-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035196.mkv
-王天丽-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035197.mkv
 叶丽仪-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035198.mkv
 周蕙-情人的眼泪(演唱会),http://em.21dtv.com/songs/60035199.mkv
 蔡琴-情人的眼泪,http://em.21dtv.com/songs/60035200.mkv
-陈静允-情人的眼泪,http://em.21dtv.com/songs/60035201.mkv
 林忆莲-情人的眼泪,http://em.21dtv.com/songs/60035202.mkv
 吕珊+张伟文-情人的眼泪,http://em.21dtv.com/songs/60035203.mkv
 麦子杰-情人的眼泪,http://em.21dtv.com/songs/60035204.mkv
-莫旭秋-情人的眼泪(演唱会),http://em.21dtv.com/songs/60064744.mkv
 陈明-情人的眼泪(演唱会),http://em.21dtv.com/songs/60077247.mkv
 汪明荃-千王群英会(演唱会),http://em.21dtv.com/songs/60034165.mkv
 谢霆锋+汪明荃-千王群英会(演唱会),http://em.21dtv.com/songs/60034166.mkv
-侧田-千亿个夜晚(演唱会),http://em.21dtv.com/songs/60034179.mkv
 林子祥-千亿个夜晚(演唱会),http://em.21dtv.com/songs/60034180.mkv
 林子祥-千亿个夜晚,http://em.21dtv.com/songs/60034181.mkv
 林子祥-千忆个夜晚,http://em.21dtv.com/songs/60092855.mkv
-山鹰组合-七月火把节(演唱会),http://em.21dtv.com/songs/60067315.mkv
 林一峰-情义两心坚(演唱会),http://em.21dtv.com/songs/60035406.mkv
 容祖儿+古巨基-情义两心坚(演唱会),http://em.21dtv.com/songs/60035407.mkv
 张德兰-情义两心坚(演唱会),http://em.21dtv.com/songs/60035408.mkv
 叶振棠+陈秀雯-情缘万世长(演唱会),http://em.21dtv.com/songs/60035441.mkv
 江映蓉-如果没有你(演唱会),http://em.21dtv.com/songs/60036822.mkv
-潘秀琼-如果没有你(演唱会),http://em.21dtv.com/songs/60036823.mkv
 任贤齐-如果没有你(演唱会),http://em.21dtv.com/songs/60036824.mkv
 叶德娴-如果没有你(演唱会),http://em.21dtv.com/songs/60036825.mkv
 周蕙-如果没有你(演唱会),http://em.21dtv.com/songs/60036826.mkv
 梁静茹-如果有一天(演唱会),http://em.21dtv.com/songs/60036968.mkv
 刘德华-如果有一天(演唱会),http://em.21dtv.com/songs/60036969.mkv
-郑璐-让青春激扬(演),http://em.21dtv.com/songs/60099540.mkv
 动力火车-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036260.mkv
 谢雷-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036261.mkv
 徐小凤-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036262.mkv
 张国荣-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036263.mkv
 甄妮-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036264.mkv
-朱咪咪-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036265.mkv
 欧阳菲菲-热情的沙漠,http://em.21dtv.com/songs/60036266.mkv
 庾澄庆-热情的沙漠,http://em.21dtv.com/songs/60036267.mkv
-钟雅颂-热情的沙漠(演唱会),http://em.21dtv.com/songs/60063455.mkv
-樊奕敏-热情的沙漠(演唱会),http://em.21dtv.com/songs/60064791.mkv
 庾澄庆+吴莫愁+金池+王韵壹-热情的沙漠,http://em.21dtv.com/songs/60071078.mkv
 羽泉-热情的沙漠,http://em.21dtv.com/songs/60077339.mkv
-麦德罗-热情的沙漠(演唱会),http://em.21dtv.com/songs/60077340.mkv
-王栎鑫+俞灏明-热情的沙漠(演唱会),http://em.21dtv.com/songs/60077341.mkv
-庾澄庆组学员-热情的沙漠,http://em.21dtv.com/songs/60081431.mkv
 张靓颖-热情的沙漠,http://em.21dtv.com/songs/60087855.mkv
 苏永康-热情的沙漠,http://em.21dtv.com/songs/60088539.mkv
 古巨基+李泉-热情的沙漠,http://em.21dtv.com/songs/60098177.mkv
 童安格-让生命等候,http://em.21dtv.com/songs/60036098.mkv
 黄凯芹-若生命等候(演唱会),http://em.21dtv.com/songs/60037108.mkv
-陈奕迅-人生马拉松,http://em.21dtv.com/songs/60115486.mkv
-池珍熙-人生蒙太奇,http://em.21dtv.com/songs/60036430.mkv
-TAE-人生马戏团,http://em.21dtv.com/songs/60090439.mkv
 徐小凤-人生满希望(演唱会),http://em.21dtv.com/songs/60036428.mkv
 吕珊-人生满希望(演唱会),http://em.21dtv.com/songs/60077357.mkv
 钟镇涛-让一切随风(演唱会),http://em.21dtv.com/songs/60036211.mkv
@@ -458,7 +380,6 @@ TAE-人生马戏团,http://em.21dtv.com/songs/60090439.mkv
 刘德华-世界第一等(演唱会),http://em.21dtv.com/songs/60039259.mkv
 伍佰-世界第一等(演唱会),http://em.21dtv.com/songs/60039260.mkv
 刘德华-世界第一等,http://em.21dtv.com/songs/60039261.mkv
-荒山亮-时间的眼泪,http://em.21dtv.com/songs/60039130.mkv
 袁惟仁-四季的眼泪(演唱会),http://em.21dtv.com/songs/60040677.mkv
 吴蕙君-世界第一勇,http://em.21dtv.com/songs/60135018.mkv
 满文军-圣洁的真爱,http://em.21dtv.com/songs/60091637.mkv
@@ -467,12 +388,7 @@ TAE-人生马戏团,http://em.21dtv.com/songs/60090439.mkv
 张清芳-时间的滋味(演唱会),http://em.21dtv.com/songs/60039131.mkv
 汪明荃-书剑恩仇录(演唱会),http://em.21dtv.com/songs/60039732.mkv
 郑少秋-书剑恩仇录(演唱会),http://em.21dtv.com/songs/60039733.mkv
-陈慧娴-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039551.mkv
-张伟文-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039552.mkv
-盖鸣晖-逝去的诺言(演唱会),http://em.21dtv.com/songs/60083809.mkv
 徐小凤-深秋立楼头(演唱会),http://em.21dtv.com/songs/60038343.mkv
-徐小凤-深秋立楼头,http://em.21dtv.com/songs/60038344.mkv
-黄凯芹-深秋立楼头,http://em.21dtv.com/songs/60129834.mkv
 TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 李克勤-三千零一夜(演唱会),http://em.21dtv.com/songs/60037285.mkv
 黄小琥-突然的自我(演唱会),http://em.21dtv.com/songs/60042926.mkv
@@ -612,8 +528,6 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 依婷爱拼才会赢,http://vd3.bdstatic.com/mda-jfreugw1pcza8xr1/mda-jfreugw1pcza8xr1.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 李玲玉女儿情,http://vd4.bdstatic.com/mda-jiqh0kcd7kgpwnmb/sc/mda-jiqh0kcd7kgpwnmb.mp4
 孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost
-我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
-芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
 
 
 广播电台,#genre#
@@ -691,10 +605,6 @@ CNR 交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
 春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-春晚2023网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
-春晚2023总台,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
-春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
 春晚2023网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
 春晚2023总台,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
