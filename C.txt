@@ -19,25 +19,23 @@
 
 {"name":"📺1我的(C-github)","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaobingb631345053/box/refs/heads/main/Clive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
-{"name":"📺2摸鱼儿","type": 0,"url": "http://我不是.摸鱼儿.com/live.php","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"📺2玉玉软件","type": 0,"url": "http://yyrj.fun/tv","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"📺3fanmingming(v6)","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
 {"name":"📺4YanG-1989(v6)","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
 {"name":"📺112114(斗鱼)","type": 0,"url": "https://m3u.ibert.me/txt/o_s_cn_112114.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"}
-  ],
+],
 
 "sites": [
-{"key":"豆瓣2","name":"250111更新C接口,欧歌┃豆瓣","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"250115更新C接口,欧歌┃豆瓣","type":3,"api":"csp_Douban","searchable":0},
 {"key":"Dm84","name":"💘巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 
 //⇩⇩1.欧歌的jar内置爬虫规则区⇩⇩(👉🇨🇳📺💡🛶🎄🎃❤💘💖🔥🎧🔞)
 
 {"key":"浪酷弹幕","name":"💘浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="}},
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"文才弹幕","name":"💘文才┃弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"三六零弹幕","name":"💘三六┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
 
 //⇩⇩2.网络找的大杂烩(api和ext是网络源)⇩⇩(🔥)
 
