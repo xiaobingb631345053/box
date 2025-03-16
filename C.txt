@@ -9,49 +9,43 @@
 "warningText":"🔥欢迎-红儿妹-观影,接口长期维护,智能AI已过滤广告",
 
 // ⇩⇩ jar包 ⇩⇩
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738479478359/f0202.txt;md5;9dbf4e8b686d614d5d6ae609347742ab",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739874580521/ou.jar",
 #"spider": "./pg.jar",
 
 // ⇩⇩ 电视直播 ⇩⇩
 "lives":[
 #{"name":"📺1我的(S-本地)","type": 0,"url": "./Slive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
-{"name":"📺1我的(C-github)","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaobingb631345053/box/refs/heads/main/Clive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+#{"name":"📺1我的(C-github)","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaobingb631345053/box/refs/heads/main/Clive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
-{"name":"📺2玉玉软件","type": 0,"url": "http://yyrj.fun/tv","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"📺ou直播","type":0,"url":"https://xn--tkh-mf3g9f.v.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
 
-{"name":"📺3fanmingming(v6)","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"📺AI直播","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
-{"name":"📺4YanG-1989(v6)","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"📺fanmingming(v6)","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":2,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
-{"name":"📺112114(斗鱼)","type": 0,"url": "https://m3u.ibert.me/txt/o_s_cn_112114.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"}
+{"name":"📺YanG-1989(v6)","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","playerType":2,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+
+{"name":"📺112114(斗鱼)","type": 0,"url": "https://m3u.ibert.me/txt/o_s_cn_112114.txt","playerType": 2,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"}
 ],
 
 "sites": [
-{"key": "豆豆","name": "250202更新C接口,饭太硬┃豆瓣","type": 3,"api": "csp_DouDou","indexs": 1,"searchable": 0,"quickSearch": 0,"filterable": 0},
-
+  {"key": "豆瓣2","name": "250316更新C接口,ouge┃豆瓣","type": 3,"api": "csp_Douban","searchable": 0},
 //⇩⇩1.欧歌的jar内置爬虫规则区⇩⇩(👉🇨🇳📺💡🛶🎄🎃❤💘💖🔥🎧🔞)
-{
-      "key": "csp_Bttoo",
-      "name": "🍄比特┃秒播",
+    {
+      "key": "1905",
+      "name": "1905｜影视",
       "type": 3,
-      "api": "csp_Bttwoo",
+      "api": "csp_Web1905",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-{
-      "key": "可可",
-      "name": "👻可可┃多线",
-      "type": 3,
-      "api": "csp_Kekys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "quickSearch": 0,
+      "filterable": 0
     },
 
 //⇩⇩2.网络找的大杂烩(api和ext是网络源)⇩⇩(🔥)
+{"key": "云腾","name": "🔥极视云4k专用","type": 3,"searchable": 1,"quickSearch": 1,"order_num": 0,"changeable": 0,
+      "api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js",
+      "ext": "http://wang.qijiyun.vip/极视云4k专用/lib/wj/万家主线2.js"},
 
  {"key": "文采","name": "🔥文采.feimao","type": 3,
       "api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1, "changeable": 1,
@@ -293,15 +287,6 @@
 {"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/星辰.js"}, 
 
 //⇩⇩ 5.采集接口规则区⇩⇩(json采集接口type:1,xml采集接口type:0 ,网络源无需jar或...)
-{"key": "阿里","name": "阿里采集.小橙子","type": 1,"api": "http://aliys.cn:90/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"playurl": "https://jx.nnxv.cn/tv.php?url=","categories": [ ]},
-{"key": "小宝影视","name": "小宝(采集)","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-{"key": "影猫影视","name": "影猫(采集)","type": 1,"api": "http://ysm.tkbot.fun/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-{"key": "何以影视","name": "何以(采集)","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-{"key": "HG影视","name": "皇冠(采集)","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-{"key":"天空资源","name":"天空资源(采集)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"阿里影视","name":"阿里影视(采集)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飞速资源","name":"飞速资源(采集)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"百度资源","name":"百度资源(采集)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源(采集)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源(采集)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"索尼资源","name":"索尼(采集)","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"changeable":1}
