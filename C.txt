@@ -9,9 +9,10 @@
 "warningText":"🔥欢迎红儿妹观影,接口由我维护,已过滤广告",
 
 // ⇩⇩ jar包 ⇩⇩
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt",
-#"spider":"https://gh-proxy.com/https://github.com/xiaobingb631345053/box/blob/main/daozhang.jar",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt",  #饭的
+#"spider":"https://gh-proxy.com/https://github.com/xiaobingb631345053/box/blob/main/daozhang.jar",  #道长的
 #"spider":"https://gh-proxy.com/https://github.com/xiaobingb631345053/box/blob/main/pg.jar",
+#"spider":"./pg.jar",
 
 // ⇩⇩ 电视直播 ⇩⇩
 "lives":[
@@ -31,14 +32,45 @@
 ],
 
 "sites": [
-//⇩⇩1.本地自制源)⇩⇩
+//⇩⇩1.自制源⇩⇩
 
 {"key": "道长荐片","name": "250318更新C接口.道长荐片","type": 3,
       "api": "https://gitee.com/aimys666/mybox/raw/master/lib/drpy.min.js",
       "ext": "https://gitee.com/aimys666/mybox/raw/master/lib/jp.js"},
 
+//⇩⇩2.饭太硬的源⇩⇩
+ {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+{
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
+    },
 
-//⇩⇩2.网络找的大杂烩(api和ext是网络源)⇩⇩(🔥)
+
+//⇩⇩3.网络找的大杂烩源(api和ext是网络源)⇩⇩(🔥)
 
 {"key": "云腾","name": "🔥万家4k影院","type": 3,"searchable": 1,"quickSearch": 1,"order_num": 1,"changeable": 1,
       "api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js",
@@ -84,7 +116,7 @@
         "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"},
  
 
-//⇩⇩3.道长的js规则区⇩⇩(自带api网络源和ext网络源)
+//⇩⇩4.道长的源⇩⇩(自带api网络源和ext网络源)
 
 {"key":"drpy_js_Alist","name":"📀网盘 | Alist[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"}, 
 
@@ -176,7 +208,7 @@
 {"key":"drpy_js_小白菜儿","name":"影视 | 小白菜儿[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.js"}, 
 {"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/星辰.js"}, 
 
-//⇩⇩ 4.采集的⇩⇩(json采集接口type:1,xml采集接口type:0 ,网络源无需jar或...)
+//⇩⇩ 5.采集源⇩⇩(json采集接口type:1,xml采集接口type:0 ,网络源无需jar或...)
 
 {"key":"U酷资源","name":"U酷资源(采集)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源(采集)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
