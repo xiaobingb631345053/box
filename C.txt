@@ -9,10 +9,8 @@
 "warningText":"🔥欢迎红儿妹观影,接口由我维护,已过滤广告",
 
 // ⇩⇩ jar包 ⇩⇩
-#"spider":"https://gitee.com/aimys666/mybox/blob/master/lib/daozhang.jar",
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",  
-#"spider":"https://gitee.com/aimys666/mybox/blob/master/lib/pg.jar",
-#"spider":"./pg.jar",
+"spider":"https://gh-proxy.com/https://github.com/xiaobingb631345053/box/blob/main/daozhang.jar",
+#"spider":"https://gh-proxy.com/https://github.com/xiaobingb631345053/box/blob/main/pg.jar",
 
 // ⇩⇩ 电视直播 ⇩⇩
 "lives":[
