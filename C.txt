@@ -9,7 +9,7 @@
 "warningText":"🔥欢迎红儿妹观影,接口由我维护,已过滤广告",
 
 // ⇩⇩ jar包 ⇩⇩
-"spider": "https://gitee.com/aimys666/mybox/blob/master/lib/daozhang.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar", 
 #"spider": "https://gitee.com/aimys666/mybox/blob/master/lib/daozhang.jar",
 #"spider": "./pg.jar",
 
