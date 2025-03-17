@@ -10,7 +10,8 @@
 
 // ⇩⇩ jar包 ⇩⇩
 #"spider":"https://gitee.com/aimys666/mybox/blob/master/lib/daozhang.jar",
-"spider":"https://gitee.com/aimys666/mybox/blob/master/lib/pg.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",  
+#"spider":"https://gitee.com/aimys666/mybox/blob/master/lib/pg.jar",
 #"spider":"./pg.jar",
 
 // ⇩⇩ 电视直播 ⇩⇩
