@@ -12,7 +12,7 @@
 
 #"spider":"https://gitee.com/aimys666/box/blob/master/jar/pg.jar",      #自存pg和道长的,成功
 
-"spider":"https://gitee.com/aimys666/box/blob/master/jar/xs_spider.jar",    #自存潇洒的,成功
+"spider":"https://github.moeyy.xyz/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",    #潇洒在线的,成功
               
 #"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt",  #在线饭的成功,欧歌的要检测软件会闪退
 
