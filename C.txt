@@ -10,7 +10,7 @@
 
 // ⇩⇩ jar包.由下至上读取 ⇩⇩   
 
-#"spider":"https://gitee.com/aimys666/box/blob/master/jar/pg.jar",      #自存pg和道长的,成功
+"spider":"https://gitee.com/aimys666/box/blob/master/jar/pg.jar",      #自存pg和道长的,成功
 
 "spider":"https://github.moeyy.xyz/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",    #潇洒在线的,成功
               
@@ -340,8 +340,8 @@
 #⇩⇩自制源⇩⇩
 
 {"key": "道长荐片jp","name": "❤️自存道长荐片","type": 3,
-      "api": "https://gitee.com/aimys666/mybox/raw/master/lib/drpy.min.js",
-      "ext": "https://gitee.com/aimys666/mybox/raw/master/lib/jp.js"},
+      "api": "https://gitee.com/aimys666/box/raw/master/lib/drpy.min.js",
+      "ext": "https://gitee.com/aimys666/box/raw/master/lib/jp.js"},
 
 #⇩⇩4.道长的源⇩⇩(自带api网络源和ext网络源)
 
