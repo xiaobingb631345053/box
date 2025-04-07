@@ -10,7 +10,7 @@
 
 // ⇩⇩ jar包.由下至上读取 ⇩⇩   
 
-"spider":"https://gitee.com/aimys666/box/blob/master/jar/pg.jar",      #自存pg和道长的,成功
+#"spider":"https://gitee.com/aimys666/box/blob/master/jar/pg.jar",      #自存pg和道长的,成功
 
 "spider":"https://gitee.com/aimys666/mybox/raw/master/jar/xs_spider.jar",    #自存潇洒的,成功
               
