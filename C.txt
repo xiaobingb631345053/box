@@ -18,7 +18,7 @@
 
 #"spider":"https://gitee.com/aimys666/box/blob/master/jar/xs.jar", 
           
-"spider":"https://github.moeyy.xyz/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",    #潇洒在线的,成功
+"spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",    #潇洒在线的,成功
 
 #"spider":"clan://localhost/TVBox/jar/xs.jar",   #潇洒本地的,成功
 
