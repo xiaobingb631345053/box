@@ -18,16 +18,16 @@
 
 #"spider":"https://gitee.com/aimys666/box/blob/master/jar/xs.jar", 
           
-"spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",    #潇洒在线的,成功
+"spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",    #潇洒在线的,成功,有大佬维护更新
 
-#"spider":"clan://localhost/TVBox/jar/xs.jar",   #潇洒本地的,成功
+#"spider":"./jar/xs.jar",   #潇洒本地的,成功
 
 
 // ⇩⇩ 电视直播.全都读取 ⇩⇩
 "lives":[
-#{"name":"📺1我的(S-本地)","type": 0,"url": "./Slive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+#{"name":"📺1我的live(本地)","type": 0,"url": "./Clive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
-{"name":"📺1我的(C-github)","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaobingb631345053/box/refs/heads/main/Clive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"📺1我的live(github)","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaobingb631345053/box/refs/heads/main/Clive.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 
 {"name":"📺ou直播","type":0,"url":"https://xn--tkh-mf3g9f.v.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
 
@@ -343,7 +343,7 @@
 
 #⇩⇩自制源⇩⇩
 
-{"key": "道长荐片jp","name": "❤️自存道长荐片","type": 3,
+{"key": "道长荐片jp","name": ❤️自存道长荐片","type": 3,
       "api": "https://gitee.com/aimys666/box/raw/master/lib/drpy.min.js",
       "ext": "https://gitee.com/aimys666/box/raw/master/lib/jp.js"},
 
