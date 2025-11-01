@@ -15,7 +15,7 @@
 #"spider":"https://gitee.com/aimys666/box/blob/master/jar/xs.jar", 
           
 "spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",    #潇洒在线的,成功,有大佬维护更新
-#"spider": "https://www.lequxiang.com.cn/down.php/d61b7ea21c26ac416e53e97293b57316.txt;md5;d61b7ea21c26ac416e53e97293b57316",  #潇洒9877在线的,成功,有大佬维护更新
+"spider": "https://www.lequxiang.com.cn/down.php/d61b7ea21c26ac416e53e97293b57316.txt;md5;d61b7ea21c26ac416e53e97293b57316",  #潇洒9877在线的,成功,有大佬维护更新
 
 #"spider":"./jar/xs.jar",   #潇洒本地的,成功
 
@@ -32,22 +32,18 @@
 
 // ⇩⇩ 电影视频.全都读取 ⇩⇩
 "sites": [
-{"key":"豆瓣2","name":"📢豆瓣评分 C线路 251030","type":3,"api":"csp_Douban","searchable":1},
+{"key":"豆瓣2","name":"📢C线路 251101 github 豆瓣","type":3,"api":"csp_Douban","searchable":1},
 
-{"key": "哔哩合集","name": "哔哩｜合集","type": 3,
+{"key": "哔哩合集","name": "哔哩合集","type": 3,
      "api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.433},
      "ext": {"json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/json/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json","cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}},
 
-{"key": "天翼","name": "天翼┃4K","type": 1,
+{"key": "天翼","name": "天翼4K","type": 1,
             "api": "http://7.qqqtv.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["推荐","电影","综艺","动漫"]},
-
-{"key": "tt","name": "星辰┃4K","type": 3,"searchable":1,"quickSearch":0,"filterable":1,
-	"api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js","ext": "http://150.158.112.123/jar/tx.js"},
-
 
 #⇩⇩潇洒9877的源(浏览器打开 https://9877.kstore.space/AnotherD/api.json )⇩⇩
 
-  {
+    {
       "key": "热播影视",
       "name": "热播｜APP",
       "type": 3,
@@ -59,68 +55,65 @@
         "url": "http://v.rbotv.cn"
       }
     },
-    {
-      "key": "浪酷影视",
-      "name": "浪酷｜APP",
+
+{
+      "key": "苹果影视",
+      "name": "苹果｜影视",
       "type": 3,
-      "api": "csp_AppRJ",
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-      }
+      "filterable": 1
     },
-    {
-      "key": "冷心",
-      "name": "冷心｜APP",
+  {
+      "key": "瓜子影视",
+      "name": "瓜子｜影视",
       "type": 3,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://app.789dd.cn",
-        "name": "火猫影视"
-      }
-    },
-    {
-      "key": "金牌",
-      "name": "金牌｜APP",
-      "type": 3,
-      "api": "csp_AppMuou",
+      "api": "csp_Gz360",
       "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
-        "name": "金牌影院（请断网再安装）"
-      }
+      "quickSearch": 1,
+      "filterable": 1
     },
- 
+{
+      "key": "1905",
+      "name": "1905｜影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+  {
+      "key": "腾讯视频",
+      "name": "腾讯｜视频",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "优酷｜视频",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/YKSP.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "芒果｜视频",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGSP.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "爱奇艺｜视频",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQY.js"
+    },
 
 #⇩⇩网络找的大杂烩源(api和ext是网络源)⇩⇩(🔥)
-
-    {
-      "key": "NT动漫",
-      "name": "🔥NT｜动漫",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/NTDM.js"
-    },
-   
- {
-      "key": "动画片",
-      "name": "🔥动画片｜动漫",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/DHPDQ.js"
-    },
-    
-    {
-      "key": "去看吧",
-      "name": "🔥去看吧｜动漫",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/QKB.js"
-    },
-   
+ 
 
 {"key": "nk",
       "name": "🔥耐看影视",
@@ -132,25 +125,16 @@
     },
 
 
-{"key": "雨滴",
-      "name": "🔥雨滴|影视",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "https://lz.qaiu.top/d/lz/i5MYu2p7cxoj",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-    },
-
-
  {"key": "央视片库","name": "🇨🇳央视片库.分享者","type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/央视片库.js"},
 
 #⇩⇩自制源⇩⇩
 
-{"key": "道长荐片jp","name": ❤️自存道长荐片","type": 3,
-      "api": "https://gitee.com/aimys666/box/raw/master/lib/drpy.min.js",
+{"key": "荐片jp","name": ❤️自存荐片","type": 3,
+      "api": "https://gitee.com/aimys666/box/raw/master/lib/drpy2.min.js",
       "ext": "https://gitee.com/aimys666/box/raw/master/lib/jp.js"},
+
 
 #⇩⇩道长的源⇩⇩(自带api网络源和ext网络源)
 
@@ -198,13 +182,11 @@
   "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/another-d/raw/master/movie/json/CJJT.json$1$1"},
 
 {"key": "360资源","name": "360资源采集","type": 1,"api": "https://360zy.com/api.php/provide/vod/?ac=list","searchable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日韩动漫","西部片","爽文短剧","现代都市","年代穿越","古装仙侠","女频恋爱","成长逆袭"],"header": {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}}
-
  ],
 
 // ⇩⇩ 解析接口 ⇩⇩(type0是嗅探自带播放器,type1是解析返回直链)
 "parses":[
 {"name": "Web聚合","type": 3,"url": "Web"},
-{"name": "Json聚合","type": 3,"url": "Demo"},
 
  {"name": "虾米(可用)","type": 0,"url": "https://jx.xmflv.com/?url="},
  {"name": "小蜜蜂(可用)","type": 0,"url": "https://jx.xmflv.cc/?url="},
